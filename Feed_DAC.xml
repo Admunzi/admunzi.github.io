@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xml:lang="es"
+    xml:base="http://localhost/ATOM_DAC/">
+
+    <id>http://localhost/ATOM_DAC/Feed_DAC.xml</id>
+
+    <title>Coches Deportivos</title>
+    <link href="https://cochesdelujo.cat/blog/"/>
+    <updated>2021-02-15T18:30:02Z</updated>
+
+    <author>
+        <name>Daniel Ayala Cantador</name>
+        <email>prueba@ejemplo.org</email>
+        <uri>http://ejemplo.org/prueba</uri>
+    </author>
+
+    <category term="coches"/>
+    <rights type="html"> &copy; 2020 Daniel Ayala Cantador</rights>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+    <entry>
+      <title>Jaguar F-Type R, potencia británica</title>
+      <link href="https://cochesdelujo.cat/blog/jaguar-f-type-r-potencia-britanica/"/>
+      <id>urn:uuid:059dd73a-714c-11eb-9439-0242ac130002</id>
+      <updated>2021-02-17T18:30:02Z</updated>
+      <summary>Jaguar, ya sea en un modelo más clásico o en un superdeportivo como este, siempre busca diferenciarse de sus competidores gracias a la elegancia clásica de la marca británica. </summary>
+
+      <author>
+          <name>El Cigala</name>
+          <email>LagrimasNegras@gmail.com</email>
+          <uri>https://El-Cigala.org</uri>
+      </author>
+
+      <link rel="alternate" href="www.ejemplo.org/web"/>
+    </entry>
+
+    <entry>
+      <title>Ferrari J50, de Italia para Japón</title>
+      <link href="https://cochesdelujo.cat/blog/ferrari-j50-italia-japon/"/>
+      <id>urn:uuid:937ba302-714c-11eb-9439-0242ac130002</id>
+      <updated>2021-02-17T18:30:02Z</updated>
+      <summary>La marca italiana ha presentado en el Centro Nacional de Arte de Tokio el Ferrari J50. Un modelo único que conmemoran los 50 años de la marca en tierra nipón.</summary>
+
+      <author>
+          <name>Antonio</name>
+          <email>milibro@gmail.com</email>
+          <uri>https://milibro.org</uri>
+      </author>
+
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <h1>Marcas</h1>
+          <ul>
+            <li>Citroen</li>
+            <li>Seat</li>
+            <li>Ferrari</li>
+          </ul>
+        </div>
+      </content>
+
+    </entry>
+
+
+    <entry>
+      <title>Porsche Panamera, la era digital de las berlinas</title>
+      <link href="https://cochesdelujo.cat/blog/porsche-panamera-la-digital-las-berlinas/"/>
+      <id>urn:uuid:01d5f682-714c-11eb-9439-0242ac130002</id>
+      <updated>2021-02-17T18:30:02Z</updated>
+      <summary>El nuevo Porsche Panamera de 2017 se presentó en Berlín sorprendiendo por ser un modelo completamente nuevo a su predecesor en casi todos los aspectos, pero que físicamente, aunque también con cambios, recuerda al espíritu Panamera.</summary>
+
+      <author>
+          <name>Manolo Gafotas</name>
+          <email>milibro@gmail.com</email>
+          <uri>https://milibro.org</uri>
+      </author>
+
+      <link rel="enclosure" type="application/pdf" hreflang="es/es" href="ftp://http://localhost/ATOM_DAC/recursos/pdfs/autos_de_lujo.pdf"/>
+    </entry>
+
+    <entry>
+      <title>Lamborghin​i Huracán, la definición perfecta de un superdeportivo</title>
+      <link href="https://cochesdelujo.cat/blog/lamborghini-huracan/"/>
+      <id>urn:uuid:fcdc5414-714b-11eb-9439-0242ac130002</id>
+      <updated>2021-02-17T18:30:02Z</updated>
+      <summary>Como es habitual en la compañía de Sant’Agata el nombre de este modelo, el Lamborghini Huracán, también proviene del nombre de un toro con historia en España</summary>
+
+      <author>
+          <name>Pedro Anteras</name>
+          <email>pedrito@gmail.com</email>
+          <uri>https://pedrito.org</uri>
+      </author>
+
+      <link rel="enclosure" type="mp4v" hreflang="es/es" href="ftp://http://localhost/ATOM_DAC/recursos/videos/videoplayback.mp4"/>    
+    </entry>   
+
+
+</feed>
